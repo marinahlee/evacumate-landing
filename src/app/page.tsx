@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
           
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 mb-6">
-This privacy policy applies to the EvacuMate app (hereby referred to as "Application") for mobile devices that was created by Marina Lee (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".            </p>
+This privacy policy applies to the EvacuMate app (hereby referred to as &ldquo;Application&rdquo;) for mobile devices that was created by Marina Lee (hereby referred to as &ldquo;Service Provider&rdquo;) as a Free service. This service is intended for use &ldquo;AS IS&rdquo;.            </p>
 
             <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">What information does the Application obtain and how is it used?
 </h3>
